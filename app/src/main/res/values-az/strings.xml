@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">İstehsal Monitoru</string>
+    <string name="user_title">İstifadəçi</string>
+    <string name="logout">Çıxış</string>
+    <string name="select_language">Dili Seç</string>
+    <string name="confirm">Təsdiqlə</string>
+    <string name="cancel">Ləğv et</string>
+    <string name="language_az">Azərbaycan</string>
+    <string name="language_en">İngilis</string>
+    <string name="profile_picture">Profil Şəkli</string>
+    <string name="failed_to_load_user_data">İstifadəçi məlumatlarını yükləmək mümkün olmadı.</string>
+
+    <!-- User Details -->
+    <string name="email">E-poçt</string>
+    <string name="registration">Qeydiyyat</string>
+    <string name="role">Rol</string>
+    <string name="administrator">Administrator</string>
+    <string name="user_role">İstifadəçi</string>
+    <string name="position">Vəzifə</string>
+    <string name="factory">Fabrika</string>
+    <string name="app_version">Tətbiq Versiyası</string>
+    <string name="language">Dil</string>
+
+    <!-- Sign-In Related -->
+    <string name="sign_in_error_title">Giriş xətası</string>
+    <string name="sign_in_error_message">Xəta baş verdi.</string>
+    <string name="username_label">İstifadəçi adı</string>
+    <string name="password_label">Şifrə</string>
+    <string name="sign_in">Daxil ol</string>
+    <string name="hide_password">Şifrəni gizlət</string>
+    <string name="show_password">Şifrəni göstər</string>
+    <string name="app_logo_description">Tətbiq Logosu</string>
+
+    <!-- Equipment Screen -->
+    <string name="equipments">Avadanlıqlar</string>
+    <string name="refresh">Yenilə</string>
+    <string name="add">Əlavə et</string>
+    <string name="all">Hamısı</string>
+    <string name="active">Aktiv</string>
+    <string name="passive">Passiv</string>
+    <string name="unknown_error">Naməlum xəta.</string>
+
+    <!-- Bottom Navigation -->
+    <string name="bottom_nav_equipments">Avadanlıqlar</string>
+    <string name="bottom_nav_me">Mən</string>
+
+    <!-- No Internet Screen -->
+    <string name="no_internet_connection">İnternet bağlantısı yoxdur</string>
+    <string name="no_internet_connection_message">Zəhmət olmasa internet bağlantınızı yoxlayın və yenidən cəhd edin.</string>
+
+    <!-- Equipment Detail Screen -->
+    <string name="equipment_details">Avadanlıq Detalları</string>
+    <string name="back">Geri</string>
+    <string name="equipment_name">Avadanlıq adı</string>
+    <string name="description">Təsvir</string>
+    <string name="model_name">Model adı</string>
+    <string name="maintenance_period">Texniki xidmət müddəti</string>
+    <string name="owner">Sahib</string>
+    <string name="created">Yaradılma Tarixi</string>
+    <string name="last_updated">Son Yeniləmə</string>
+    <string name="utilization">İstifadə Faizi</string>
+    <string name="status">Status</string>
+    <string name="new_work">Yeni İş</string>
+    <string name="complete_existing">Mövcudunu Tamamla</string>
+    <string name="fix_the_issue">Problemi Həll Et</string>
+    <string name="other">Digər</string>
+    <string name="select_the_work">İşi Seç</string>
+    <string name="status_updated_successfully">Status uğurla yeniləndi!</string>
+    <string name="failed_to_update_status">Statusu yeniləmək mümkün olmadı.</string>
+    <string name="dismiss">Bağla</string>
+    <string name="invalid_date">Yanlış Tarix</string>
+
+    <!-- Status Indicator -->
+    <string name="cnc_status_description">CNC Statusu</string>
+
+    <!-- Add New Equipment Dialog -->
+    <string name="new_equipment">Yeni Avadanlıq</string>
+    <string name="title">Başlıq</string>
+</resources>
